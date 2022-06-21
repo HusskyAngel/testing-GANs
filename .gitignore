@@ -1,2 +1,2 @@
-test_img_segmented/
-processed_data/
+test_img_segmented/**
+processed_data/**
